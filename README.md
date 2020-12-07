@@ -1,6 +1,6 @@
 # kickstarter-analysis #
-# Performing Analysis on Kickstarter Data to uncover trends #
-                                         # An Analysis of Kickstarter Campaigns
+# Performing Analysis on Kickstarter Data to uncover trends 
+                                         ## An Analysis of Kickstarter Campaigns
 Louise’s goal is to have a successfully funded campaign for her play. Our job is to use to excel to analyze the dataset to make recommendations for her success.  
 The chart I reviewed was the outcomes based on launch dates. By looking at the graph, we can see a high successful number of campaigns started in May and June. The least amount of successful campaigns launched in December. The recommendation I would make to Louise is to star her campaign in the months of May or June and to stay away from December. In addition, looking at the totals, May had the highest amount of campaigns and successful campaigns at that. May looks to be the best month to start your campaign, Louise. 
 
@@ -13,6 +13,8 @@ The chart I reviewed was the outcomes based on launch dates. By looking at the g
 Excel is a great tool for analyzing large datasets. Louise’s play Fever came extremely close to its fundraising goal in a short amount of time. However, she now wants to examine her competitors’ campaigns in terms of their launch dates and funding goals. We will be going through the data set to analyze how her play did compared to others with different launch dates and funding goals and possibly provide better recommendations for the future. 
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/74915619/101300190-bf916900-3802-11eb-8eb6-db16996ad386.PNG)
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/74915619/101300204-d0da7580-3802-11eb-86a8-fbb57d25d155.PNG)
 
 
 # Analysis and Challenges
