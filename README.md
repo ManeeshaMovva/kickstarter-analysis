@@ -10,7 +10,7 @@ The chart I reviewed was the outcomes based on launch dates. By looking at the g
 
 
 # Crowdfunding In-Depth Analysis #
-Overview of Project 
+# Overview of Project 
 Excel is a great tool for analyzing large datasets. Louise’s play Fever came extremely close to its fundraising goal in a short amount of time. However, she now wants to examine her competitors’ campaigns in terms of their launch dates and funding goals. We will be going through the data set to analyze how her play did compared to others with different launch dates and funding goals and possibly provide better recommendations for the future. 
 
 Analysis and Challenges
