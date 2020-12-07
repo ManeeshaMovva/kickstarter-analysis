@@ -21,9 +21,9 @@ Moving on, we can now look at the Outcomes Based on Goals chart to better assess
 ## Challenges and Difficulties Encountered
 The biggest challenge I encountered was creating the countif statements for “Outcomes Based on Goals.” I had trouble integrating the goal ranges into the statements as conditions. Once, I figured that out, it was smooth sailing. Another challenge I encountered was with the document being so large, my excel would consistently freeze and I was scared I would lose my work. 
 # Results
-Conclusions about Theater Outcomes
+##Conclusions about Theater Outcomes
 One conclusion I can make about the theater outcomes data is May and June are the best months for launching a campaign. The next conclusion I can make is that December is the worst month. A possible reason for why December had such a low number of successful campaigns could have been because it is around the holidays. Everyone is spending their money to buy gifts and other things for family, friends, etc. so funding might be limited. 
-Conclusions about Outcomes Based on Goals
+##Conclusions about Outcomes Based on Goals
 The biggest conclusion I can make about Outcomes Based on Goals is that all of the campaigns have either succeeded or failed – none of them were canceled. Something I found interesting, but not suprising, was the smaller numbers for campigns with funding goals greater than 50000 – the numbers being low was understandable as 50000+ in funding is a lot to expect compounded with other factors such as the audience you’re reaching, the economy, etc.
-Limitations and Recommendations of/for this Dataset
+##Limitations and Recommendations of/for this Dataset
 As we are only looking at certain parts of the data, we are not seeing the bigger picture. We are making the dataset even smaller which is nice to analyze certain pieces but to make informed recommendations and decisions; we would need to use the entire dataset. A recommendation I had was using average donations and backers count to see what an average backer was donating and to what type of plays to see which ones are the most popular and receiving the most funding. A bar graph could be useful in seeing the differences in numbers of successful, failed and canceled campaigns. Line Graphs are helpful to see the changes over times but a bar graph is more visually pleasing and a lot easier to read. 
