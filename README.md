@@ -1,4 +1,4 @@
-# kickstarter-analysis
+# kickstarter-analysis #
 Performing Analysis on Kickstarter Data to uncover trends
                                           An Analysis of Kickstarter Campaigns
 Louise’s goal is to have a successfully funded campaign for her play. Our job is to use to excel to analyze the dataset to make recommendations for her success.  
