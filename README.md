@@ -9,3 +9,4 @@ The chart I reviewed was the outcomes based on launch dates. By looking at the g
 
 
 
+# Crowdfunding In-Depth Analysis #
