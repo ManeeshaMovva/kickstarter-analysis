@@ -12,6 +12,7 @@ The chart I reviewed was the outcomes based on launch dates. By looking at the g
 # Overview of Project 
 Excel is a great tool for analyzing large datasets. Louise’s play Fever came extremely close to its fundraising goal in a short amount of time. However, she now wants to examine her competitors’ campaigns in terms of their launch dates and funding goals. We will be going through the data set to analyze how her play did compared to others with different launch dates and funding goals and possibly provide better recommendations for the future. 
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/74915619/101300190-bf916900-3802-11eb-8eb6-db16996ad386.PNG)
 
 
 # Analysis and Challenges
